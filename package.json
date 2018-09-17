@@ -1,0 +1,20 @@
+{
+  "name": "mvue-loader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/999946/mvue-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/999946/mvue-loader/issues"
+  },
+  "homepage": "https://github.com/999946/mvue-loader#readme",
+  "dependencies": {
+    "trim": "^0.0.1"
+  }
+}
